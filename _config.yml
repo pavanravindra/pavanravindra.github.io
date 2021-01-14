@@ -6,7 +6,8 @@ url: "localhost:4000"
 github_username:  pavanravindra
 
 # Build settings
-theme: beautiful-jekyll-theme
+remote_theme: beautiful-jekyll-theme
+#theme: beautiful-jekyll-theme
 plugins:
   - jekyll-feed
 
