@@ -5,4 +5,12 @@
 layout: page
 ---
 
-Hi Alvina!
+<a><img class="center" src="assets\img\pavan_suit.jpg" height="auto" width="300" style="border-radius:50%"></a>
+
+<center>Welcome to my website!</center>
+
+My name is Pavan Ravindra, and I am an undergraduate at the University of Maryland, studying molecular simulations with [Dr. Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/).
+
+I am pursuing double degrees in Biochemistry and Computer Science, which I plan to receive in May 2021. After that, I will be headed to graduate school.
+
+If you want to get in touch with me, the best way to do that is by [sending me an email](mailto:pravin4094@gmail.com).

@@ -1,5 +1,6 @@
 ---
 layout: page
-title: About
 permalink: /about/
 ---
+
+<center>This page is under construction!</center>
