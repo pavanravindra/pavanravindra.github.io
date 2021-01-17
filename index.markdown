@@ -11,6 +11,6 @@ layout: page
 
 My name is Pavan Ravindra, and I am an undergraduate at the University of Maryland, studying molecular simulations with [Dr. Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/).
 
-I am pursuing double degrees in Biochemistry and Computer Science, which I plan to receive in May 2021. After that, I will be headed to graduate school.
+I am double majoring in Biochemistry and Computer Science, and I plan to graduate in May 2021. After that, I will be headed to graduate school (although I'm still deciding where I'll be going).
 
 If you want to get in touch with me, the best way to do that is by [sending me an email](mailto:pravin4094@gmail.com).
