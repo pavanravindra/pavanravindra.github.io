@@ -9,8 +9,8 @@ layout: page
 
 <center>Welcome to my website!</center>
 
-I am an undergraduate at the University of Maryland, where I study molecular simulations with [Dr. Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/).
+I am an undergraduate at the University of Maryland, where I study molecular simulations with [Dr. Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/) as part of the [Department of Chemistry and Biochemistry](http://www.chem.umd.edu). I have previously worked with [Dr. Jeffrey Smith](https://irp.nih.gov/pi/jeffrey-smith) to develop simulations of networks of biological neurons for the [National Institute of Neurological Disorders and Stroke](https://www.ninds.nih.gov/) at the [National Institutes of Health](https://www.nih.gov/).
 
-I am double majoring in Biochemistry and Computer Science, and I plan to graduate in May 2021. After that, I am heading to graduate school (although I'm not sure where I'll be going).
+I plan to graduate in May 2021 with a double major in Biochemistry and Computer Science. After that, I am heading to graduate school (although I'm not sure where). For a more detailed description of my projects, you can take a look at my CV [here](/CV.pdf).
 
-If you want to get in touch with me, the best way to do that is by [sending me an email](mailto:pravin4094@gmail.com).
+If you want to get in touch with me, feel free to [send me an email](mailto:pravin4094@gmail.com).
