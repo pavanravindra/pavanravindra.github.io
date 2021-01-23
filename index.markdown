@@ -9,7 +9,7 @@ layout: page
 
 <center>Welcome to my website!</center>
 
-I am an undergraduate at the University of Maryland, studying molecular simulations with [Dr. Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/).
+I am an undergraduate at the University of Maryland, where I study molecular simulations with [Dr. Pratyush Tiwary](https://sites.google.com/site/pratyushtiwary/).
 
 I am double majoring in Biochemistry and Computer Science, and I plan to graduate in May 2021. After that, I am heading to graduate school (although I'm not sure where I'll be going).
 
