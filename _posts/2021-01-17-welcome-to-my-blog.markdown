@@ -16,4 +16,4 @@ I've decided to start a blog for a few reasons:
 
 5. I need a hobby that feels at least remotely productive.
 
-I have a few blog posts planned already, so I'll be working on those over the next few days/weeks. These first few blog posts will be about undergraduate research and applying to PhD programs.
+I have a few blog posts planned already, so I'll be working on those over the next few days/weeks. These first few blog posts will be about my experiences with undergraduate research and the application process for PhD programs. I hope to eventually write blog posts that are more technical.
