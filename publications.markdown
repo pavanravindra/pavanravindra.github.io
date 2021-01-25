@@ -2,7 +2,6 @@
 layout: page
 permalink: /publications/
 #full-width: true
-css: /assets/css/publications.css
 ---
 
 You can also refer to my [Google Scholar profile](https://scholar.google.com/citations?user=JDemSfgAAAAJ&hl=en).
