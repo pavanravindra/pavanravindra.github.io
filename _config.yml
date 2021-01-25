@@ -18,6 +18,7 @@ description: Undergraduate at the University of Maryland
 # --- List of links in the navigation bar --- #
 
 navbar-links:
+  About Me: "about"
   Blog: "blog"
   Publications: "publications"
 
