@@ -1,9 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
+permalink: /about/
 ---
+
+<h2>About Me</h2>
 
 I am broadly interested in using physics and computation to study chemical systems.
 
