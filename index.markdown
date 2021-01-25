@@ -13,4 +13,4 @@ I am an undergraduate at the University of Maryland, where I study molecular sim
 
 I plan to graduate in May 2021, and then I am heading to graduate school (although I'm not sure where). For more detailed descriptions of my research projects, take a look at my CV [here](/CV.pdf).
 
-If you want to get in touch with me, feel free to [send me an email](mailto:pravin4094@gmail.com)!
+If you want to get in touch with me, feel free to [send me an email](mailto:pravin4094@gmail.com).
