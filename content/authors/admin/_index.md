@@ -26,12 +26,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio:
 
-# Interests to show in About widget
-interests:
-  - Statistical Mechanics
-  - Machine Learning
-  - Molecular Simulations
-
 # Education to show in About widget
 education:
   courses:
@@ -44,6 +38,12 @@ education:
     - course: BS in Biochemistry, BS in Computer Science
       institution: University of Maryland, College Park
       year: 2021
+
+# Interests to show in About widget
+interests:
+  - Statistical Mechanics
+  - Machine Learning
+  - Molecular Simulations
 
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
